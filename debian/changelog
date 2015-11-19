@@ -1,4 +1,4 @@
-huayra-block (1.0.0) unstable; urgency=low
+huayra-block (1.0.0-1) unstable; urgency=low
 
   * Prueba de separación del código y la estructura de paquete.
 
