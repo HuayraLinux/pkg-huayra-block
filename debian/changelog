@@ -1,3 +1,9 @@
+huayra-block (1.1.0-1) unstable; urgency=low
+
+  * Actualizando.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 19 Nov 2015 19:27:09 +0100
+
 huayra-block (1.0.0-1) unstable; urgency=low
 
   * Prueba de separación del código y la estructura de paquete.
