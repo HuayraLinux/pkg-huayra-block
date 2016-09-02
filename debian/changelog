@@ -1,3 +1,9 @@
+huayra-block (1.2.0-1) UNRELEASED; urgency=medium
+
+  * Agregado el hint de WM_CLASS
+
+ -- Ignacio Losiggio <iglosiggio@gmail.com>  Fri, 02 Sep 2016 11:51:50 -0300
+
 huayra-block (1.1.0-1) unstable; urgency=low
 
   * Actualizando.
