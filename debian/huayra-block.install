@@ -1,4 +1,5 @@
 src/* usr/share/huayra-block/src
+node_modules/nwjs-hack/* usr/share/huayra-block/node_modules/nwjs-hack
 bin/huayra-block usr/bin/
 debian/huayra-block.desktop /usr/share/applications
 debian/huayra-block.svg /usr/share/icons/hicolor/scalable/apps

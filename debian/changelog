@@ -1,8 +1,14 @@
-huayra-block (1.2.0-1) UNRELEASED; urgency=medium
+huayra-block (1.2.1-1) unstable; urgency=medium
+
+  * Agregado el hint de WM_CLASS y reparado el paquete
+
+ -- Ignacio Losiggio <iglosiggio@gmail.com>  Mon, 05 Sep 2016 12:26:47 -0300
+
+huayra-block (1.2.0-2) unstable; urgency=medium
 
   * Agregado el hint de WM_CLASS
 
- -- Ignacio Losiggio <iglosiggio@gmail.com>  Fri, 02 Sep 2016 11:51:50 -0300
+ -- Ignacio Losiggio <iglosiggio@gmail.com>  Mon, 05 Sep 2016 12:26:30 -0300
 
 huayra-block (1.1.0-1) unstable; urgency=low
 
